@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Olá, eu sou o Higor! 👋
+## Olá, eu sou o Higor! 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Analyst;DevOps+%26+SRE+Engineer;Multi-Cloud+Specialist;Infrastructure+as+Code;Automation+Enthusiast" alt="Typing SVG" />
 </div>
@@ -9,13 +7,15 @@ Olá, eu sou o Higor! 👋
 Sou Analista de Infraestrutura Cloud com foco em DevOps e SRE, apaixonado por construir infraestruturas escaláveis, resilientes e automatizadas. Atuo principalmente com soluções multi-cloud, orquestração de containers e práticas de Infrastructure as Code.
 Acredito que a combinação de automação inteligente, observabilidade robusta e cultura DevOps é fundamental para entregar valor de forma contínua e confiável.
 
-🎓 Formação Acadêmica
+## Formação Acadêmica
 
-💻 Bacharel em Ciência da Computação
-☁️ Certificações:
+Bacharel em Ciência da Computação
 
-AWS Certified
-Microsoft Azure Certified
+## ☁️Certificações:
+
+- ** AZ-900
+- ** AZ-104
+- **AZ-305
 
 
 
@@ -116,7 +116,7 @@ Microsoft Azure Certified
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=HigorHenrique4tech&color=blueviolet&style=for-the-badge"/>
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HigorHenrique4tech/HigorHenrique4tech/output/github-contribution-grid-snake-dark.svg">
