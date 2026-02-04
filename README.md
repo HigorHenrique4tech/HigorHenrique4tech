@@ -13,9 +13,9 @@ Bacharel em Ciência da Computação
 
 ## ☁️Certificações:
 
-- ** AZ-900
-- ** AZ-104
-- **AZ-305
+- ** AZ-900 **
+- ** AZ-104 **
+- ** AZ-305 **
 
 
 
