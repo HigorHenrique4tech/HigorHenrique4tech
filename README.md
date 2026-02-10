@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Analyst;DevOps+%26+SRE+Engineer;Multi-Cloud+Specialist;Infrastructure+as+Code;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
-🚀 Sobre Mim
+🚀 Sobre mim
 Sou Analista de Infraestrutura Cloud com foco em DevOps e SRE, apaixonado por construir infraestruturas escaláveis, resilientes e automatizadas. Atuo principalmente com soluções multi-cloud, orquestração de containers e práticas de Infrastructure as Code.
 Acredito que a combinação de automação inteligente, observabilidade robusta e cultura DevOps é fundamental para entregar valor de forma contínua e confiável.
 
